@@ -68,7 +68,7 @@ Observe os avisos de direitos autorais e os Termos de Uso.
 
 ## Faça o download de todo o ISO27k Toolkit
 
-Faça o download do [ISO27k Toolkit completo]() Ícone Zip- um arquivo ZIP contendo a maioria dos materiais acima.
+Faça o download do [ISO27k Toolkit completo](https://github.com/LGPD-GDPR-Grupo-de-Estudo/ISO27kToolkit/releases/tag/v1) Ícone Zip- um arquivo ZIP contendo a maioria dos materiais acima.
 
 Essa é a versão 2019-12 lançada em dezembro de 2019.
 
